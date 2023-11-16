@@ -16,4 +16,8 @@ public class No {
     public No getProximo() {
         return this.proximo;
     }
+
+    public void setProximo(No proximo) {
+        this.proximo = proximo;
+    }
 }
